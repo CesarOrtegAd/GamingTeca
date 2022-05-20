@@ -4,7 +4,7 @@ body {
 
 .cover {
     height: 400px;
-    background-image: url("imagenes/gamingCabecera.jpg");
+    background-image: url("../../imagenes/gamingCabecera.jpg");
     background-size: cover;
     background-position: center;
     color: white;
